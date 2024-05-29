@@ -22,4 +22,4 @@ AtliQ Hardware is experiencing rapid growth, but this process presents significa
 - Enhanced visual data representation and executed powerful data transformations.
 - Developed effective data models and explored DAX formulas.
 - Navigated finance metrics for comprehensive financial analysis.
-# atliq-hardware-sales-excel
+
